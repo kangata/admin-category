@@ -24,7 +24,7 @@
             <div class="uk-width-1-4@m">
                 <div class="uk-card uk-card-default uk-card-small">
                     <div class="uk-card-body">
-                        <h4>Add New Categories</h4>
+                        <h4>Add New Category</h4>
                         <form class="uk-from-stacked" action="{{ url('admin/categories') }}" method="POST">
                             {{ csrf_field() }}
                             <div class="uk-margin">
