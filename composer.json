@@ -1,6 +1,6 @@
 {
     "name": "quetzalarc/admin-category",
-    "description": "This simple crud category for admin with UIkit for Laravel Edit",
+    "description": "This simple crud category for admin with UIkit for Laravel.",
     "license": "MIT",
     "authors": [
         {
